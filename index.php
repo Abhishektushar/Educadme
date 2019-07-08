@@ -129,8 +129,9 @@ require("find_classes/database.php");
 <h3>KNOW ABOUT E-LEARNING</h3>
 <div class="container-fluid text-center">
 </div>
- <embed src="W.mp4" width="500" height="300"  >
- </embed>
+ <video width="500" height="300" controls>
+      <source src="W.mp4" type="video/mp4">
+    </video>
 </div>
 
 </div>
